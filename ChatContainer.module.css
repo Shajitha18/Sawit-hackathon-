@@ -1,0 +1,14 @@
+.chatbox {
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+  padding: 16px;
+  /* max-width: 600px; */
+  width: 50%;
+  margin: auto;
+  background-color: #fff;
+  box-sizing: border-box;
+  border-radius: 5px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+}
